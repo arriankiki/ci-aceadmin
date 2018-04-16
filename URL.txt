@@ -1,0 +1,16 @@
+Arrian Rizki Firdaus
+
+http://localhost:8080/ci-aceadmin/
+
+http://localhost:8080/ci-aceadmin/index.php/example
+
+http://localhost:8080/ci-aceadmin/index.php/grid
+
+http://localhost:8080/ci-aceadmin/index.php/widgets
+
+http://localhost:8080/ci-aceadmin/index.php/calender
+
+http://localhost:8080/ci-aceadmin/index.php/galeri
+
+
+
